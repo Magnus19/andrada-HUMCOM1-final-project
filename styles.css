@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+
+#main-wrap {
+    width: 100%;
+    flex-direction: column;
+}
+
+#head-title {
+    font-size: 72px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    color: rgb(235, 235, 15);
+    font-weight: bold;
+    padding: 10rem;
+    width: 100%;
+    border: rgb(17, 5, 119) solid 2px;
+}
+
+#desc-title {
+    width: 100%;
+    font-size: 32px;
+    padding: 1rem;
+    border: brown solid 1px;
+    margin: 1%;
+}
+
+#details {
+    border: brown solid 1px;
+    margin: 1%;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+#who {
+    font-size: 64px;
+    color: yellow;
+}
+
+#who-desc {
+    font-size: 24px;
+}
+
+#contacts {
+    font-size: 64px;
+    color: yellow;
+}
+
+#contacts-desc {
+    font-size: 24px;
+}
+
+.detail-wrap {
+    width: 50%;
+}
+
+#skills {
+    width: 100%;
+}
+
+#soft-skills {
+    width: 50%;
+}
+
+#hard-skills {
+    width: 50%;
+}
+
+.skill-wrap {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+.wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
