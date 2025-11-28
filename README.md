@@ -1,2 +1,2 @@
-# HUMCOM1-Finals-2025-1st-Sem
+# andrada-HUMCOM1-final-project
 A portfolio project for a subject in my school curriculum.
